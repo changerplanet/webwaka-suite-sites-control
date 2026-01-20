@@ -1,0 +1,8 @@
+{
+  "name": "webwaka-suite-sites-control",
+  "version": "0.1.0",
+  "description": "WebWaka sites suite - control",
+  "scripts": {
+    "test": "echo 'No tests yet' && exit 0"
+  }
+}
